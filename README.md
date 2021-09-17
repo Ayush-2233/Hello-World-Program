@@ -1,5 +1,5 @@
-# Hello-World-Program
-"Hello World!" in C
+
+//"Hello World!" in C
 
 #include <stdio.h>
 #include <string.h>
